@@ -1,4 +1,4 @@
-# Todays Tasks
+# Todays Tasks 1
 
 - Create a Vrtual env in folder b8day2
 - Activate it
@@ -8,3 +8,9 @@
 - Run locally and share the network IP
 - I will hit in `http://{localIp}:3000/api/getbyid/24`
 - Should return "Hello from batch B8 with ID: 24"
+
+
+# Todays Tasks 2
+- Theory of Decision Tree
+- Theory of Random Forests
+- Theory of Principle Component Analyses (PCA)
