@@ -7,4 +7,4 @@
 - Create a new api end point name `api/getbyid/{id}`: id as int
 - Run locally and share the network IP
 - I will hit in `http://{localIp}:3000/api/getbyid/24`
-- Should return "Hello from batch with ID: 24"
+- Should return "Hello from batch B8 with ID: 24"
