@@ -14,3 +14,8 @@
 - Theory of Decision Tree
 - Theory of Random Forests
 - Theory of Principle Component Analyses (PCA)
+
+
+# Todays Tasks 3
+- Learn django
+
