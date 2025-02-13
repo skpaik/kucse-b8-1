@@ -2,7 +2,7 @@
 
 - Create a Vrtual env in folder b8day2
 - Activate it
-- Install Flask
+- Install Flask https://flask.palletsprojects.com/en/latest/
 - Create app.py file and add contents
 - Create a new api end point name `api/getbyid/{id}`: id as int
 - Run locally and share the network IP
