@@ -17,5 +17,30 @@
 
 
 # Todays Tasks 3
-- Learn django
+- Learn django https://docs.djangoproject.com
+- Create a new folder and open the folder in terminal
+- Create and activate virtual env
+- Command
+- ```shell
+  python -m pip install Django
+  ```
+- ```shell
+  python -m django --version
+  ```
+- ```shell
+  mkdir djangotutorial
+  ```
+- ```shell
+  django-admin startproject mysite djangotutorial
+  ```
+- Open in Favourite Editor (VSCode or Pycharm)
+- ```shell
+  python manage.py runserver
+  ```
+- ```shell
+  python manage.py startapp polls
+  ```
+- Follow steps of https://docs.djangoproject.com/en/5.1/intro/tutorial01/
 
+  
+  
